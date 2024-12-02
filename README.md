@@ -1,2 +1,2 @@
 # W3D-Att
-即插即用的解码器模块
+A plug-and-play decoder module.
