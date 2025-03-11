@@ -1,2 +1,2 @@
-# W3D-Att
+# FEWTD
 A plug-and-play decoder module.
